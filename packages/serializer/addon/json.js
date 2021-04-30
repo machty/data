@@ -11,7 +11,7 @@ import { coerceId, errorsArrayToHash } from '@ember-data/store/-private';
 import { modelHasAttributeOrRelationshipNamedType } from './-private';
 
 /**
-  @module @ember-data/serializer
+  @module @ember-data/serializer   
 */
 
 /**
